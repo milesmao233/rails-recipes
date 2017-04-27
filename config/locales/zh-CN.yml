@@ -1,0 +1,11 @@
+"zh-CN":
+  event_list: 活动列表
+  hello: "亲～ %{name} 你好"
+  activerecord:
+    attributes:
+      event:
+        name: "活动名称"
+        description: "描述"
+  admin:
+    event_list: 活动列表管理
+    event_name: 活动名称
