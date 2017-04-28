@@ -9,6 +9,8 @@ Rails.application.routes.draw do
     resources :events
   end
 
+  resource :user
+
   root "events#index"
 
 end
