@@ -1,6 +1,11 @@
 "zh-CN":
   event_list: 活动列表
   hello: "亲～ %{name} 你好"
+  event:
+    status:
+      draft: 草稿
+      public: 公开
+      private: 私密
   activerecord:
     attributes:
       event:
